@@ -939,9 +939,6 @@ cfg
 cfide
 cfm
 cfusion
-cgi
-cgi-bin
-cgi-bin/
 cgi-bin2
 cgi-data
 cgi-exe
